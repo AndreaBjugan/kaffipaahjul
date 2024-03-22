@@ -7,8 +7,8 @@ The people of Grimstad didn't have a choice to choose quality coffee that was ma
 - Ideas 
 We are working out ideas throughout different locations. We plan our ideas throughout boards in Github, sketching and saving concepts in Miro and preto/prototyping in Figma. We will deliver the finished product in Webflow. Links to go to these platforms below.
 
-  - Links
+- Links
 
-MIRO: https://miro.com/app/board/uXjVKf_5760=/
-PLANNING BOARD: https://github.com/users/AndreaBjugan/projects/1
+- MIRO: https://miro.com/app/board/uXjVKf_5760=/
+- PLANNING BOARD: https://github.com/users/AndreaBjugan/projects/1
 
